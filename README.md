@@ -1,4 +1,4 @@
-C-ADT-s
+abstract typer
 =======
 
 Abstract data types in C.
